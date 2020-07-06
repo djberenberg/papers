@@ -1,0 +1,105 @@
+Tool,Prediction (change in property),URL,Reference,Issue,Dd-mm-yyyy,DOI
+Tools using 3D Structural Info,,,,,,
+3D Hotspots,mutation hotspots in protein chains (cancer),http://3dhotspots.org/3d/#/home,Genome Med.,9(1):4.,23-01-2017,https://doi.org/10.1186/s13073-016-0393-x
+Auto-Mutate,"protein stability, phenotypic effect",http://binf2.gmu.edu/automute/,Protein Eng Des Sel.,23(8):683-7,xx-08-2010,https://dx.doi.org/10.1093/protein/gzq042
+BeAtMuSiC,protein-protein affinity,http://babylone.ulb.ac.be/beatmusic,Nucleic Acids Res,41(Web Server issue):W333-9,xx-07-2013,https://dx.doi.org/10.1093/nar/gkt450
+BindProf,protein-protein affinity,http://zhanglab.ccmb.med.umich.edu/BindProf/,PLoS Comput Biol., 11(10): e1004494,xx-10-2015,https://dx.doi.org/10.1371%2Fjournal.pcbi.1004494
+BindProfX,protein-protein affinity,https://zhanglab.ccmb.med.umich.edu/BindProfX/,J Mol Biol.,429: 426-434,xx-xx-2017,https://doi.org/10.1016/j.jmb.2016.11.022
+CUPSAT,protein stability,http://cupsat.tu-bs.de/,Nucleic Acids Res.,34(Web Server issue):W239-42,01-07-2006,https://dx.doi.org/10.1093/nar/gkl190
+DUET,protein stability,http://bleoberis.bioc.cam.ac.uk/duet/stability,Nucleic Acids Res. 2014 Jul,42(Web Server issue):W314-9,xx-07-2014,https://dx.doi.org/10.1093/nar/gku411
+ELASPIC,protein stability,http://elaspic.kimlab.org/,Bioinformatics,32 (10): 1589 – 1591,xx-xx-2016,https://doi.org/10.1093/bioinformatics/btw031
+ENTERPRISE,phenotypic effect,http://cssb.biology.gatech.edu/entprise/,PLoS One.,11(3):e0150965,16-03-2016,https://doi.org/10.1371/journal.pone.0150965
+FOLDX,protein stability,http://foldxsuite.crg.eu/,Nucleic Acids Res., 33(Web Server issue): W382–W388,01-07-2005,https://dx.doi.org/10.1093%2Fnar%2Fgki387
+HOPE,"3D visualization, seq. and structural features",http://www.cmbi.ru.nl/hope/,BMC Bioinformatics,11:548,08-11-2010,http://dx.doi.org/10.1186/1471-2105-11-548
+I-Mutant,protein stability,http://gpcr2.biocomp.unibo.it/cgi/predictors/I-Mutant3.0/I-Mutant3.0.cgi,Nucleic Acids Res., 33(Web Server issue): W306–W310,01-07-2005,https://dx.doi.org/10.1093%2Fnar%2Fgki375
+INPS-3D,protein stability,http://inpsmd.biocomp.unibo.it/inpsSuite/default/index3D,Bioinformatics,32(16):2542-4,15-08-2016,https://doi.org/10.1093/bioinformatics/btw192
+KD4v,phenotypic effect,http://decrypthon.igbmc.fr/kd4v/cgi-bin/home,Nucleic Acids Res.,40 (W1): W71-W7540 (W1): W71-W75,xx-xx-2012,https://doi.org/10.1093/nar/gks474
+mCSM-AB,antibody-antigen affinity,http://structure.bioc.cam.ac.uk/mcsm_ab,Nucleic Acids Res.,44(W1):W469-73,08-07-2016,https://dx.doi.org/10.1093/nar/gkw458
+mCSM,"protein stability, protein-protein affinity, protein-DNA affinity",http://bleoberis.bioc.cam.ac.uk/mcsm/stability,Bioinformatics, 30(3): 335-342,xx-xx-2014,https://dx.doi.org/10.1093/bioinformatics/btt691
+mCSM-lig,protein-ligand affinity,http://structure.bioc.cam.ac.uk/mcsm_lig,Sci Rep.,6:29575,07-07-2016,https://dx.doi.org/10.1038/srep29575
+MOKCa,mutation hotspots in protein domains (cancer),http://strubiol.icr.ac.uk/extra/mokca/,Oncotarget, 8:21290-21304.,xx-xx-2017,https://doi.org/10.18632/oncotarget.15514
+MultiMutate,protein stability,http://www.math.wsu.edu/math/faculty/bkrishna/DT/Mutate/,Bioinformatics,23 (22): 3009-3015,xx-xx-2007,https://doi.org/10.1093/bioinformatics/btm481
+MUpro,protein stability,http://mupro.proteomics.ics.uci.edu/,Proteins,62(4):1125-32,01-03-2006,https://dx.doi.org/10.1002/prot.20810
+MutaBind,"protein-protein affinity, phenotypic effect",https://www.ncbi.nlm.nih.gov/projects/mutabind/,Nucleic Acids Res.,44(W1):W494-501. doi: 10.1093/nar/gkw374,08-07-2016,https://doi.org/10.1093/nar/gkw374
+MutationAligner,mutation hotspots in protein domains (cancer),http://www.mutationaligner.org/,Cell Syst.,1(3):197-209. doi: 10.1016/j.cels.2015.08.014,23-09-2015,http://dx.doi.org/10.1016/j.cels.2015.08.014
+PolyPhen-2,phenotypic effect,http://genetics.bwh.harvard.edu/pph2/,Nat Methods,7(4):248-9,xx-04-2010,https://dx.doi.org/10.1038/nmeth0410-248
+PreDAM,phenotypic effect,https://zhanglab.ccmb.med.umich.edu/PreDAM/,NULL,NULL,xx-xx-2017,NULL
+Rosetta:ddg monomer,protein stability,https://www.rosettacommons.org/docs/latest/application_documentation/analysis/ddg-monomer,Proteins,79(3):830-8,xx-03-2011,https://dx.doi.org/10.1002/prot.22921
+SAAFEC,protein stability,http://compbio.clemson.edu/SAAFEC,Int J Mol Sci.,17(4):512,07-04-2016,https://dx.doi.org/10.3390/ijms17040512
+SAAMBE,protein-protein affinity,http://compbio.clemson.edu/saambe_webserver,Int J Mol Sci.,17(4):547,04-12-2016,https://dx.doi.org/10.3390/ijms17040547
+SAAP,phenotypic effect,http://www.bioinf.org.uk/saap/dap/,BMC Genomics,14 Suppl 3:S4. ,xx-xx-2013,https://doi.org/10.1186/1471-2164-14-S3-S4
+SDM,protein stability,http://mordred.bioc.cam.ac.uk/sdm/sdm.php,Nucleic Acids Res.,39(Web Server issue):W215-22,xx-07-2011,https://dx.doi.org/10.1093/nar/gkr363
+SDS,phenotypic effect,http://sds-p.cig.biology.gatech.edu/,Front Genet., 5: 82,xx-xx-2014,https://dx.doi.org/10.3389%2Ffgene.2014.00082
+SNPeffect,protein stability and other properties,http://snpeffect.switchlab.org/menu,Nucleic Acids Res.,40(Database issue):D935-9,xx-01-2012,https://dx.doi.org/10.1093/nar/gkr996
+SNPs3D,effect on protein structure and function,http://www.snps3d.org/,BMC Bioinformatics,7:166,22-03-2006,https://dx.doi.org/10.1186/1471-2105-7-166
+StructMAn,phenotypic effect,http://structman.mpi-inf.mpg.de/,Nucleic Acids Res., 44(Web Server issue): W463–W468.,08-07-2016,https://dx.doi.org/10.1093%2Fnar%2Fgkw364
+STRUM,protein stability,http://zhanglab.ccmb.med.umich.edu/STRUM/,Bioinformatics, 32(19): 2936–2946,01-10-2016,https://doi.org/10.1093/bioinformatics/btw361
+SuSPect,phenotypic effect,http://www.sbg.bio.ic.ac.uk/~suspect/,J Mol Biol.,426(14):2692-701,15-07-2014,https://doi.org/10.1016/j.jmb.2014.04.026
+VIPUR,effect on protein structure and function,https://osf.io/bd2h4/,Nucleic Acids Res.,44 (6): 2501-2513,xx-xx-2016,https://doi.org/10.1093/nar/gkw120
+ws-SNP&GO3d,phenotypic effect,http://snps.biofold.org/snps-and-go/snps-and-go-3d.html,BMC Bioinformatics,12(Suppl 4):S,xx-xx-2011,https://dx.doi.org/10.1186/1471-2105-12-S4-S3
+PDBFlex,protein flexibility,http://pdbflex.org,Nucleic Acids Res.,44(D1):D423-8.,04-01-2016,https://doi.org/10.1093/nar/gkv1316
+3D Mapping & Visualization,,,,,,
+cBioPortal,mapping and 3D visualization,http://www.cbioportal.org/,Cancer Discov.,2(5):401-4.,xx-05-2012,https://doi.org/10.1158/2159-8290.CD-12-0095
+COSMIC-3D,mapping and 3D visualization,http://cancer.sanger.ac.uk/cosmic3d/,Cancer Discov.,7(8):787-788.,xx-08-2017,https://doi.org/10.1158/2159-8290.CD-NB2017-091
+CRAVAT,mapping and 3D visualization,http://cravat.us/CRAVAT/,Bioinformatics,29(5):647-8,01-03-2013,https://dx.doi.org/10.1093/bioinformatics/btt017
+G2S,genome to structure mapping web service,http://g2s.genomenexus.org/,NULL,NULL,xx-xx-xxxx,NULL
+JalView,multiple seq. alignment and annotation visualization,http://www.jalview.org/,Bioinformatics,25 (9): 1189-1191,xx-xx-2009,https://doi.org/10.1093/bioinformatics/btp033
+LS-SNP/PDB,mapping and 3D visualization,http://ls-snp.icm.jhu.edu/ls-snp-pdb/,Bioinformatics,25(11):1431-2,xx-06-2009,https://dx.doi.org/10.1093/bioinformatics/btp242
+MoKCa database,mapping and 3D visualization,http://strubiol.icr.ac.uk/extra/mokca/,Nucleic Acids Res., 37(Database issue): D824–D831.,xx-01-2009,https://doi.org/10.1093/nar/gkn832
+MuPIT,mapping and 3D visualization,http://mupit.icm.jhu.edu/MuPIT_Interactive/,Hum Genet.,132(11):1235-43,xx-11-2013,https://dx.doi.org/10.1007/s00439-013-1325-0
+SNP2Structure,mapping and 3D visualization,https://apps.icbi.georgetown.edu/snp2structure/,Comput Struct Biotechnol J., 13: 514–519. ,xx-xx-2015,https://dx.doi.org/10.1016%2Fj.csbj.2015.09.002
+RCSB PDB,mapping and 3D visualization,http://www.rcsb.org/pdb/chromosome.do,Bioinformatics,32(24):3833-3835,15-12-2016,https://dx.doi.org/10.1093/bioinformatics/btw547
+cancer3D,mapping and 3D visualization,http://cancer3d.org,Nucleic Acids Res.,43(Database issue):D968-73.,xx-01-2015,https://doi.org/10.1093/nar/gku1140
+SWISS-MODEL Repository,mapping and 3D visualization,https://swissmodel.expasy.org/repository,Nucleic Acids Res.," 45, D313–D319, ",xx-xx-2017,https://doi.org/10.1093/nar/gkw1132
+Sequence-Based Tools,,,,,,
+CADD,,http://cadd.gs.washington.edu/,Nat Genet.,46(3):310-5,xx-03-2014,https://dx.doi.org/10.1038/ng.2892
+CAROL,PolyPhen-2 + SIFT,http://www.sanger.ac.uk/science/tools/carol,Hum Hered.,73(1):47-51,xx-xx-2012,https://dx.doi.org/10.1159/000334984
+CHASM,,http://wiki.chasmsoftware.org/,Bioinformatics,27(15):2147-8,01-08-2011,https://dx.doi.org/10.1093/bioinformatics/btr357
+DANN,,https://cbcl.ics.uci.edu/public_data/DANN/,Bioinformatics,31(5):761-3,01-03-2015,https://dx.doi.org/10.1093/bioinformatics/btu703
+Evolutionary Action,,http://mammoth.bcm.tmc.edu/uea/,Genome Res., 24(12): 2050–2058.,xx-12-2014,https://dx.doi.org/10.1101%2Fgr.176214.114
+FuncPred,multiple tools,https://snpinfo.niehs.nih.gov/snpinfo/snpfunc.html,NULL,NULL,xx-xx-xxxx,NULL
+GLINTS,,http://bioinfo.au.tsinghua.edu.cn/jianglab/glints/,BMC Bioinformatics,17(Suppl 17):468,23-12-2016,https://dx.doi.org/10.1186/s12859-016-1325-x
+iFish,,http://ifish.cbi.pku.edu.cn,Sci Rep.,6:31321,16-08-2016,https://dx.doi.org/10.1038/srep31321
+MutationAssessor,,http://mutationassessor.org/r3/,Nucleic Acids Res.,39(17):e118,01-09-2011,https://dx.doi.org/10.1093/nar/gkr407
+MutationTaster,,http://www.mutationtaster.org/,Nat Methods,11(4):361-2,xx-04-2014,https://dx.doi.org/10.1038/nmeth.2890
+MutPred,Missense mutation pathogenicity and effect on protein structure and function,http://mutpred1.mutdb.org/about.html,Bioinformatics,25(21):2744-50,01-11-2009,https://dx.doi.org/10.1093/bioinformatics/btp528
+MutPred2,Missense mutation pathogenicity and effect on protein structure and function,http://mutpred2.mutdb.org/about.html,bioRxiv,134981,09-05-2017,https://dx.doi.org/10.1101/134981
+MutPred-LOF,Frameshift and nonsense mutation pathogenicity and effect on protein structure and function,https://www.cs.indiana.edu/~predrag/mutpredlof.htm,Bioinformatics,33(14):i389-i398,12-07-2017,https://dx.doi.org/10.1093/bioinformatics/btx272
+nsSnpAnalyzer,,http://snpanalyzer.uthsc.edu/,Nucleic Acids Res.,33(Web Server issue):W480-2,01-07-2005,https://dx.doi.org/10.1093/nar/gki372
+PANTHER-PSEP,,http://www.pantherdb.org/tools/csnpScoreForm.jsp,Bioinformatics,32(14):2230-2,15-07-2016,https://dx.doi.org/10.1093/bioinformatics/btw222
+PdD-SNP,,http://snps.biofold.org/phd-snp/phd-snp.html,Bioinformatics,22(22):2729-34,15-11-2006,https://dx.doi.org/10.1093/bioinformatics/btl423
+PMUT,,http://mmb.pcb.ub.es/pmut2017/,Bioinformatics, 21 (14): 3176-3178.,xx-xx-2005,https://doi.org/10.1093/bioinformatics/bti486
+PolyPhen-2,,http://genetics.bwh.harvard.edu/pph2/,Nat Methods,7(4):248-9,xx-04-2010,https://dx.doi.org/10.1038/nmeth0410-248
+PON-P2,, http://structure.bmc.lu.se/PON-P2,PLoS One,10(2):e0117380,03-02-2015,https://dx.doi.org/10.1371/journal.pone.0117380
+PredictSNP,Consensus prediction,http://loschmidt.chemi.muni.cz/predictsnp/,PLoS Comput Biol.,10(1):e1003440,xx-01-2014,https://dx.doi.org/10.1371/journal.pcbi.1003440
+PredictSNP2,Consensus prediction,http://loschmidt.chemi.muni.cz/predictsnp2,PLoS Comput Biol.,12(5):e1004962.,25-05-2016,https://dx.doi.org/10.1371/journal.pcbi.1004962
+PROVEAN,,http://provean.jcvi.org/index.php,Bioinformatics,31 (16): 2745-2747,xx-xx-2015,https://doi.org/10.1093/bioinformatics/btv195
+REVEL,,https://sites.google.com/site/revelgenomics/,Am J Hum Genet., 99(4): 877–885.,06-10-2016,https://dx.doi.org/10.1016%2Fj.ajhg.2016.08.016
+SIFT,Effect of missense mutations and indels,http://sift.bii.a-star.edu.sg/,Nucleic Acids Res.,40(Web Server issue):W452-7,xx-07-2012,https://dx.doi.org/10.1093/nar/gks539
+SNAP2,,https://rostlab.org/services/snap2web/,BMC Genomics,16 Suppl 8:S1,xx-xx-2015,https://dx.doi.org/10.1186/1471-2164-16-S8-S1
+SnpEff,Gene variant annotation tool,http://snpeff.sourceforge.net/,Fly (Austin),6(2):80-92.,xx-04-2012,https://doi.org/10.4161/fly.19695
+SNPs&GO,,http://snps-and-go.biocomp.unibo.it/snps-and-go/,Hum Mutat.,30(8):1237-44,xx-08-2009,https://dx.doi.org/10.1002/humu.21047
+VAAST2,,http://www.yandell-lab.org/software/vaast.html,Genet Epidemiol.,37(6):622-34,xx-09-2013,https://dx.doi.org/10.1002/gepi.21743
+VEP,"Effect on genes, transcripts, and protein sequence, regulatory regions",http://uswest.ensembl.org/info/docs/tools/vep/index.html,Genome Biol.,17(1):122,06-06-2016,https://dx.doi.org/10.1186/s13059-016-0974-4
+VEST,,http://wiki.chasmsoftware.org/index.php/Main_Page,BMC Genomics., 14(Suppl 3): S3,xx-xx-2013,https://dx.doi.org/10.1186%2F1471-2164-14-S3-S3
+VIPUR,effect on protein function,https://osf.io/bd2h4/,Nucleic Acids Res.,44 (6): 2501-2513,xx-xx-2016,https://doi.org/10.1093/nar/gkw120
+wANNOVAR,,http://wannovar.wglab.org/,Nat Protoc., 10(10): 1556–1566,xx-10-2015,https://dx.doi.org/10.1038%2Fnprot.2015.105
+"Tools, Benchmarks, Databases",,,,,,
+OMICTOOLS,List of tools related to mutations,https://omictools.com/search?q=mutation,NULL,NULL,,
+Vls3d,List of tools related to mutations,http://www.vls3d.com/links/bioinformatics/mutations,NULL,NULL,,
+ANNOVAR,List of variant dbs & tools,http://annovar.openbioinformatics.org/en/latest/user-guide/filter/,NULL,NULL,,
+Review,List of tools related to mutations,NULL,Hum Mutat.,30(5):703-14,xx-05-2009,https://doi.org/10.1002/humu.20938
+mutLBSgeneDB,Mutated ligand binding site gene DataBase,https://bioinfo.uth.edu/mutLBSgeneDB/,Nucleic Acids Res., 45(Database issue): D256–D263,04-01-2017,https://dx.doi.org/10.1093%2Fnar%2Fgkw905
+Platinum,Database of experimentally measured effects of mutations on structurally defined protein–ligand complexes,http://bleoberis.bioc.cam.ac.uk/platinum/,Nucleic Acids Res., 43(Database issue): D387–D391,28-01-2015,https://dx.doi.org/10.1093%2Fnar%2Fgku966
+VariBench,Benchmark database for variations,http://structure.bmc.lu.se/VariBench/,Hum Mutat.,34(1):42-9,xx-01-2013,https://dx.doi.org/10.1002/humu.22204
+VariSNP,"VariSNP, a benchmark database for variations from dbSNP",http://structure.bmc.lu.se/VariSNP,Hum Mutat.,36(2):161-6,xx-02-2015,https://dx.doi.org/10.1002/humu.22727
+SKEMPI,Database of binding free energy changes upon mutation,https://life.bsc.es/pid/mutation_database/index.html,Bioinformatics,28(20):2600-7. doi: 10.1093/bioinformatics/bts489,15-10-2012,https://doi.org/10.1093/bioinformatics/bts489
+ProTherm,Database of thermodynamic data for protein stability,http://www.abren.net/protherm/,Nucleic Acids Res.,34(Database issue):D204-6.,01-01-2006,https://doi.org/10.1093/nar/gkj103
+ProNit,Database of thermodynamic data for protein-nucleic acid interactions,http://www.abren.net/protherm/,Nucleic Acids Res.,34(Database issue):D204-6.,01-01-2006,https://doi.org/10.1093/nar/gkj103
+ClinVar,ClinVar,https://www.ncbi.nlm.nih.gov/clinvar/,Nucleic Acids Res.,44(D1):D862-8,04-01-2016,https://doi.org/10.1093/nar/gkv1222
+COSMIC,Catalogue Of Somatic Mutations In Cancer,http://cancer.sanger.ac.uk/cosmic,Nucleic Acids Res.,45(D1):D777-D78,04-01-2017,https://dx.doi.org/10.1093%2Fnar%2Fgkw1121
+HGMD,Human Gene Mutation Database,http://www.hgmd.org,Hum Genet.,133(1):1-9,xx-01-2014,https://doi.org/10.1007/s00439-013-1358-4
+Kaviar,Known VARiants,http://db.systemsbiology.net/kaviar/,Bioinformatics,27(22):3216-7,15-11-2011,https://doi.org/10.1093/bioinformatics/btr540
+OMIM,Online Mendelian Inheritance in Man,https://www.ncbi.nlm.nih.gov/omim/,Hum Mutat.,30(5):703-14,xx-05-2009,https://doi.org/10.1093/nar/gki033
+TCGA,Cancer Genome Atlas,https://cancergenome.nih.gov/,Contemp Oncol (Pozn),19(1A):A68-77,xx-xx-2015,https://doi.org/10.5114/wo.2014.47136
+HumDiv/HumVar,Human Disease Variants,http://genetics.bwh.harvard.edu/pph2/dokuwiki/downloads,Nat Methods, 7(4): 248–249,xx-04-2010,https://dx.doi.org/10.1038%2Fnmeth0410-248
