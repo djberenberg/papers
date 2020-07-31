@@ -1,7 +1,77 @@
 # Papers
-Papers I find interesting, useful, and on my reading list.
+Papers on my reading list or that I've otherwise found interesting/useful.
+
+## Geometric deep learning
+<a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
+```bibtex
+@article{Bronstein_2017,
+   title={Geometric Deep Learning: Going beyond Euclidean data},
+   volume={34},
+   ISSN={1558-0792},
+   url={http://dx.doi.org/10.1109/MSP.2017.2693418},
+   DOI={10.1109/msp.2017.2693418},
+   number={4},
+   journal={IEEE Signal Processing Magazine},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Bronstein, Michael M. and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre},
+   year={2017},
+   month={Jul},
+   pages={18–42}
+}
+```
 
 ## Graph signal processing
+<a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
+```bibtex
+@misc{dakovic2019localsmooth,
+    title={Local Smoothness of Graph Signals},
+    author={Miloš Daković and Ljubiša Stanković and  Ervin Sejdić},
+    volume={2019},
+    journal={Mathematical Problems in Engineering},
+    publisher={Hindawi},
+    pages={1-14},
+    DOI={10.1555/2019/3208569},
+    url={https://doi.org/10.1155/2019/3208569} 
+    year={2019}
+}
+```
+- <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
+
+```bibtex
+@misc{hammond2009wavelets,
+    title={Wavelets on Graphs via Spectral Graph Theory},
+    author={David K Hammond and Pierre Vandergheynst and Rémi Gribonval},
+    year={2009},
+    eprint={0912.3848},
+    archivePrefix={arXiv},
+    primaryClass={math.FA}
+}
+```
+
+# Geometric scattering
+- <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
+```bibtex
+@misc{castro2020uncovering,
+    title={Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings},
+    author={Egbert Castro and Andrew Benz and Alexander Tong and Guy Wolf and Smita Krishnaswamy},
+    year={2020},
+    eprint={2006.06885},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
+
+- <a href="https://arxiv.org/abs/1810.03068">Gao, G. Wolf, and M. Hirn, “Geometric scattering for graph data analysis,” in 36th Int. Conf.Mach. Learning, Long Beach, CA, 15-9 June 2019, pp. 1–10</a>
+```bibtex
+@misc{gao2018geometric,
+    title={Geometric Scattering for Graph Data Analysis},
+    author={Feng Gao and Guy Wolf and Matthew Hirn},
+    year={2018},
+    eprint={1810.03068},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
 ## Graph convolution
 
 ## Instance discrimination
