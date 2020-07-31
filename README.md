@@ -41,6 +41,20 @@ Papers I find interesting, useful, and on my reading list.
 }
 ```
 
+## Miscellaneous Machine Learning
+- <a href="https://arxiv.org/abs/1802.03676">Mensch, A &amp; Blondel, M. (2018) Differentiable dynamic programming for structure prediction and attention, Arxiv preprint</a>
+```bibtex
+@misc{mensch2018differentiable,
+    title={Differentiable Dynamic Programming for Structured Prediction and Attention},
+    author={Arthur Mensch and Mathieu Blondel},
+    year={2018},
+    eprint={1802.03676},
+    archivePrefix={arXiv},
+    primaryClass={stat.ML}
+}
+```
+
+
 ## Network science
 - <a href="https://arxiv.org/abs/1804.03665"> Bagrow, J. P., &amp; Bollt, E. M. (2019). An information-theoretic, all-scales approach to comparing networks. Applied Network Science, 4(1). doi:10.1007/s41109-019-0156-x</a>
 ```bibtex
