@@ -2,10 +2,11 @@
 Papers on my reading list or that I've otherwise found interesting/useful.
 
 ## Geometric deep learning
-<a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
+- <a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
 
 ## Graph signal processing
-<a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
+- <a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
+
 - <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
 
 # Geometric scattering
