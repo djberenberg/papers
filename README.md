@@ -46,6 +46,7 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 
 - <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
 
+- <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
 ## Graph theory
 - <a href="https://www.sciencedirect.com/science/article/pii/0022000082900095?via%3Dihub">Luks, E. M. (1982). Isomorphism of graphs of bounded valence can be tested in polynomial time. Journal of Computer and System Sciences, 25(1), 42-65. doi:10.1016/0022-0000(82)90009-5</a>
 
