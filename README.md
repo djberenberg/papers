@@ -49,6 +49,7 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 
 ## Graph theory
 - <a href="https://www.sciencedirect.com/science/article/pii/0022000082900095?via%3Dihub">Luks, E. M. (1982). Isomorphism of graphs of bounded valence can be tested in polynomial time. Journal of Computer and System Sciences, 25(1), 42-65. doi:10.1016/0022-0000(82)90009-5</a>
+- <a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">Cohen, W. W. (2010), Graph Walks and Graphical Models, CMU</a>
 
 ## Instance discrimination
 - <a href="https://arxiv.org/abs/1805.01978">Wu, Z., Xiong, Y., Yu, S., and Lin, D. (2018) Unsupervised feature learning via non-parametric instance-level discrimination, Arxiv preprint</a>
@@ -60,6 +61,9 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 
 ## Network science
 - <a href="https://arxiv.org/abs/1804.03665"> Bagrow, J. P., &amp; Bollt, E. M. (2019). An information-theoretic, all-scales approach to comparing networks. Applied Network Science, 4(1). doi:10.1007/s41109-019-0156-x</a>
+
+## Class Discovery in Networks
+- <a href="https://arxiv.org/abs/2007.02914">Lan, Lin, et al. "Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding." arXiv preprint arXiv:2007.02914 (2020).</a>
 
 # Other links
 - <a href="https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765">How to unit test machine learning code</a> 
