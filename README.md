@@ -18,9 +18,12 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 - <a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
 
 ## Geometric scattering
-- <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
+- <a href="https://arxiv.org/abs/1812.06968">Michael Perlmutter, Guy Wolf, & Matthew Hirn. (2018). Geometric Scattering on Manifolds.</a>
 
 - <a href="https://arxiv.org/abs/1810.03068">Gao, G. Wolf, and M. Hirn, “Geometric scattering for graph data analysis,” in 36th Int. Conf.Mach. Learning, Long Beach, CA, 15-9 June 2019, pp. 1–10</a>
+
+- <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
+
 
 ## Graph convolution
 - <a href="https://arxiv.org/abs/1606.09375">Michaël Defferrard, Xavier Bresson, & Pierre Vandergheynst. (2016). Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.</a>
