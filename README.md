@@ -62,8 +62,15 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 ## Miscellaneous Machine Learning
 - <a href="https://arxiv.org/abs/1802.03676">Mensch, A &amp; Blondel, M. (2018) Differentiable dynamic programming for structure prediction and attention, Arxiv preprint</a>
 
-## Network science
+## Complex Systems \& Network science
+- <a href="https://www.santafe.edu/research/results/working-papers/self-dissimilarity-an-empirical-measure-of-complex">Wolpert, D.H. & Macready, W.G. (2000). "Self-Dissimilarity: An Empirically Observable Measure of Complexity". In Y. Bar-Yam (ed.). Unifying Themes in Complex Systems (PDF). Perseus books.</a>
+
+- <a href="https://ti.arc.nasa.gov/m/pub-archive/935h/0935%20(Wolpert).pdf">Wolpert, David H.; Macready, William (2004). "Self-dissimilarity as a high dimensional complexity measure". In Y. Bar-Yam (ed.). International Conference on Complex Systems (PDF). Perseus books, in press.</a>
+
 - <a href="https://arxiv.org/abs/1804.03665"> Bagrow, J. P., &amp; Bollt, E. M. (2019). An information-theoretic, all-scales approach to comparing networks. Applied Network Science, 4(1). doi:10.1007/s41109-019-0156-x</a>
+
+
+
 
 ## Class Discovery in Networks
 - <a href="https://arxiv.org/abs/2007.02914">Lan, Lin, et al. "Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding." arXiv preprint arXiv:2007.02914 (2020).</a>
