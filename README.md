@@ -37,6 +37,8 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 #### Graph pooling
 - <a href="https://arxiv.org/abs/1806.08804">Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, & Jure Leskovec. (2018). Hierarchical Graph Representation Learning with Differentiable Pooling.</a>
 
+- <a href="static/end-to-end-graph-classification.pdf">Zhang, M., Cui, Z., Neumann, M., &amp; Chen, Y. (2018). An End-to-End Deep LearningArchitecture for Graph Classification. Proceedings of The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18.</a>
+
 #### Multiple edge features
 - <a href="https://arxiv.org/abs/1809.02709">Liyu Gong, & Qiang Cheng. (2018). Exploiting Edge Features in Graph Neural Networks.</a>
 - <a href="https://arxiv.org/abs/1906.03412">Xavier Bresson, & Thomas Laurent. (2019). A Two-Step Graph Convolutional Decoder for Molecule Generation.</a>
@@ -74,8 +76,7 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 - <a href="https://medium.com/@marksaroufim/automatic-differentiation-step-by-step-24240f97a6e6">AutoDiff step by step</a>
 - <a href="https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59">Do We Need Deep Graph Neural Networks?</a>
 - <a href="https://towardsdatascience.com/benchmarking-graph-neural-networks-d644e0bf54d5">Benchmarking GCN</a>
-
-- <a href="https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0">Introduction to persistent homology in topological data science</a>
+- <a href="https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0">Introduction to persistent homology in topological data analysis</a>
 
 # Miscellaneous links
 - <a href="https://bibtex.online/">Bibtex to html</a>
