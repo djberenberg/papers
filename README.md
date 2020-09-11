@@ -37,7 +37,7 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 #### Graph pooling
 - <a href="https://arxiv.org/abs/1806.08804">Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, & Jure Leskovec. (2018). Hierarchical Graph Representation Learning with Differentiable Pooling.</a>
 
-- <a href="static/end-to-end-graph-classification.pdf">Zhang, M., Cui, Z., Neumann, M., &amp; Chen, Y. (2018). An End-to-End Deep LearningArchitecture for Graph Classification. Proceedings of The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18.</a>
+- <a href="static/end-to-end-differentiable-graph-classification.pdf">Zhang, M., Cui, Z., Neumann, M., &amp; Chen, Y. (2018). An End-to-End Deep LearningArchitecture for Graph Classification. Proceedings of The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18.</a>
 
 #### Multiple edge features
 - <a href="https://arxiv.org/abs/1809.02709">Liyu Gong, & Qiang Cheng. (2018). Exploiting Edge Features in Graph Neural Networks.</a>
