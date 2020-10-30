@@ -1,26 +1,27 @@
 # Papers
-Papers on my reading list or that I've otherwise found interesting/useful.
 
-- [Geometric deep learning](#geometric-deep-learning)
-- [Geometric scattering](#geometric-scattering)
-- [Graph convolution](#graph-convolution)
-  - [Graph pooling](#graph-pooling)
-  - [Multiple edge features](#multiple-edge-features) 
-- [Graph signal processing](#graph-signal-processing)
-- [Graph theory](#graph-theory)
-- [Instance discrimination](#instance-discrimination)
-- [Miscellaneous machine learning](#miscellaneous-machine-learning)
-- [Network science](#network-science)
-- [Other links](#other-links)
+# Scattering nets
+- <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">
+Intro. to scattering networks</a>
+- <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
+- <a href="https://www.youtube.com/watch?v=Gb8uaQn12Gk">Stephane Mallat: Part 2</a>
 
+## Signal processing, wavelet scattering
+- "Invariant Scattering Convolution Networks", Bruna et al 
+<a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
 
-## Geometric deep learning
+- "Joint Time-Frequency Scattering", Anden et al 
+ <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
+- "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al 
+<a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
+- <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
+- <a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
+
 - <a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
-
-## Geometric scattering
 - <a href="https://arxiv.org/abs/1812.06968">Michael Perlmutter, Guy Wolf, & Matthew Hirn. (2018). Geometric Scattering on Manifolds.</a>
 - <a href="https://arxiv.org/abs/1810.03068">Gao, G. Wolf, and M. Hirn, “Geometric scattering for graph data analysis,” in 36th Int. Conf.Mach. Learning, Long Beach, CA, 15-9 June 2019, pp. 1–10</a>
 - <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
+- <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
 
 ## Graph convolution
 - <a href="https://arxiv.org/abs/1606.09375">Michaël Defferrard, Xavier Bresson, & Pierre Vandergheynst. (2016). Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.</a>
@@ -42,11 +43,6 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 #### Multiple edge features
 - <a href="https://arxiv.org/abs/1809.02709">Liyu Gong, & Qiang Cheng. (2018). Exploiting Edge Features in Graph Neural Networks.</a>
 - <a href="https://arxiv.org/abs/1906.03412">Xavier Bresson, & Thomas Laurent. (2019). A Two-Step Graph Convolutional Decoder for Molecule Generation.</a>
-
-## Graph signal processing
-- <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
-- <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
-- <a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
 
 ## Graph theory
 - <a href="https://www.sciencedirect.com/science/article/pii/0022000082900095?via%3Dihub">Luks, E. M. (1982). Isomorphism of graphs of bounded valence can be tested in polynomial time. Journal of Computer and System Sciences, 25(1), 42-65. doi:10.1016/0022-0000(82)90009-5</a>
@@ -77,6 +73,7 @@ Papers on my reading list or that I've otherwise found interesting/useful.
 - <a href="https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59">Do We Need Deep Graph Neural Networks?</a>
 - <a href="https://towardsdatascience.com/benchmarking-graph-neural-networks-d644e0bf54d5">Benchmarking GCN</a>
 - <a href="https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0">Introduction to persistent homology in topological data analysis</a>
+
 
 # Miscellaneous links
 - <a href="https://bibtex.online/">Bibtex to html</a>
