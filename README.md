@@ -3,12 +3,21 @@
 # Scattering nets
 - <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">
 Intro. to scattering networks</a>
+
 - <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
 - <a href="https://www.youtube.com/watch?v=Gb8uaQn12Gk">Stephane Mallat: Part 2</a>
 
-## Signal processing, wavelet scattering
+- "Graph Convolutional Networks via Scattering", Zou et al 
+<a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
+
+## Signal processing, wavelets, and scattering
 - "Invariant Scattering Convolution Networks", Bruna et al 
 <a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
+
+- "Group Invariant Scattering", Stephane Mallat 
+<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">
+https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
+</a>
 
 - "Joint Time-Frequency Scattering", Anden et al 
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
@@ -23,7 +32,13 @@ Intro. to scattering networks</a>
 - <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
 - <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
 
+- "Unsupervised Deep Haar Scattering on Graphs", Chen et al 
+<a href="https://arxiv.org/pdf/1406.2390.pdf">https://arxiv.org/pdf/1406.2390.pdf</a>
+
 ## Graph convolution
+- "DiffGCN: Graph Convolutional Networks viaDifferential Operators and Algebraic MultigridPooling", Eliasof et al 
+<a href="https://arxiv.org/pdf/2006.04115.pdf">https://arxiv.org/pdf/2006.04115.pdf</a>
+
 - <a href="https://arxiv.org/abs/1606.09375">Michaël Defferrard, Xavier Bresson, & Pierre Vandergheynst. (2016). Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.</a>
 - <a href="https://arxiv.org/abs/1609.02907">Thomas N. Kipf, & Max Welling. (2016). Semi-Supervised Classification with Graph Convolutional Networks.</a>
 - <a href="https://arxiv.org/abs/1711.07553">Xavier Bresson, & Thomas Laurent. (2017). Residual Gated Graph ConvNets.</a>
