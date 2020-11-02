@@ -1,17 +1,16 @@
 # Papers
 
 # Scattering nets
-- <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">
-Intro. to scattering networks</a>
+- <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">Intro. to scattering networks</a>
 
 - <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
 - <a href="https://www.youtube.com/watch?v=Gb8uaQn12Gk">Stephane Mallat: Part 2</a>
 
-- "Graph Convolutional Networks via Scattering", Zou et al 
+- "Graph Convolutional Networks via Scattering", Zou et al <br>
 <a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
 
 ## Signal processing, wavelets, and scattering
-- "Invariant Scattering Convolution Networks", Bruna et al 
+- "Invariant Scattering Convolution Networks", Bruna et al <br>
 <a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
 
 - "Group Invariant Scattering", Stephane Mallat 
@@ -19,7 +18,7 @@ Intro. to scattering networks</a>
 https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 </a>
 
-- "Joint Time-Frequency Scattering", Anden et al 
+- "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
 - "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al 
 <a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
