@@ -13,15 +13,16 @@
 - "Invariant Scattering Convolution Networks", Bruna et al <br>
 <a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
 
-- "Group Invariant Scattering", Stephane Mallat 
+- "Group Invariant Scattering", Stephane Mallat <br>
 <a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">
 https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 </a>
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
-- "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al 
+- "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al <br>
 <a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
+
 - <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
 - <a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
 
@@ -31,11 +32,11 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
 - <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
 
-- "Unsupervised Deep Haar Scattering on Graphs", Chen et al 
+- "Unsupervised Deep Haar Scattering on Graphs", Chen et al <br>
 <a href="https://arxiv.org/pdf/1406.2390.pdf">https://arxiv.org/pdf/1406.2390.pdf</a>
 
 ## Graph convolution
-- "DiffGCN: Graph Convolutional Networks viaDifferential Operators and Algebraic MultigridPooling", Eliasof et al 
+- "DiffGCN: Graph Convolutional Networks viaDifferential Operators and Algebraic MultigridPooling", Eliasof et al <br>
 <a href="https://arxiv.org/pdf/2006.04115.pdf">https://arxiv.org/pdf/2006.04115.pdf</a>
 
 - <a href="https://arxiv.org/abs/1606.09375">Michaël Defferrard, Xavier Bresson, & Pierre Vandergheynst. (2016). Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.</a>
