@@ -23,11 +23,18 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al <br>
 <a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
 
-- <a href="https://arxiv.org/abs/0912.3848">Hammond, D., Vandergheynst, P., &amp; Gribonval, R. (2009). Wavelets on Graphs via Spectral Graph Theory, 2009, Arxiv preprint</a>
-- <a href="https://www.hindawi.com/journals/mpe/2019/3208569/">Daković, M., Stanković, L., &amp; Sejdić, E. (2019). Local Smoothness of Graph Signals. Mathematical Problems in Engineering, 2019, 1-14. doi:10.1155/2019/3208569</a>
+- "Wavelets on Graphs via Spectral Graph Theory", Hammond et al <br>
+<a href="https://arxiv.org/abs/0912.3848">"https://arxiv.org/abs/0912.3848"</a>
 
-- <a href="https://arxiv.org/abs/1611.08097">Bronstein, Michael M. et al. “Geometric Deep Learning: Going Beyond Euclidean Data.” IEEE Signal Processing Magazine 34.4 (2017): 18–42. Crossref. Web.</a>
-- <a href="https://arxiv.org/abs/1812.06968">Michael Perlmutter, Guy Wolf, & Matthew Hirn. (2018). Geometric Scattering on Manifolds.</a>
+- "Local Smoothness of Graph Signals", Daković et al <br>
+<a href="https://www.hindawi.com/journals/mpe/2019/3208569/">https://www.hindawi.com/journals/mpe/2019/3208569/</a>
+
+- "Geometric Deep Learning: Going Beyond Euclidean Data", Bronstein et al <br>
+<a href="https://arxiv.org/abs/1611.08097">https://arxiv.org/abs/1611.08097</a>
+
+- "Geometric Scattering on Manifolds", Perlmutter et al <br>
+<a href="https://arxiv.org/abs/1812.06968">https://arxiv.org/abs/1812.06968"</a>
+
 - <a href="https://arxiv.org/abs/1810.03068">Gao, G. Wolf, and M. Hirn, “Geometric scattering for graph data analysis,” in 36th Int. Conf.Mach. Learning, Long Beach, CA, 15-9 June 2019, pp. 1–10</a>
 - <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
 - <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
