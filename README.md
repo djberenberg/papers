@@ -35,59 +35,84 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "Geometric Scattering on Manifolds", Perlmutter et al <br>
 <a href="https://arxiv.org/abs/1812.06968">https://arxiv.org/abs/1812.06968"</a>
 
-- <a href="https://arxiv.org/abs/1810.03068">Gao, G. Wolf, and M. Hirn, “Geometric scattering for graph data analysis,” in 36th Int. Conf.Mach. Learning, Long Beach, CA, 15-9 June 2019, pp. 1–10</a>
-- <a href="https://arxiv.org/abs/2006.06885">Castro, E., Benz, A., Tong, A., Wolf, G., &amp; Krishnaswamy, S. (2020). Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings, 2020. Arxiv preprint</a>
-- <a href="http://web.media.mit.edu/~xdong/pub.html">Learning Laplacian matrix in smooth graph signal representations. X. Dong, D. Thanou, P. Frossard and P. Vandergheynst. IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.</a>
+- "Geometric scattering for graph data analysis", Gao et al <br>
+<a href="https://arxiv.org/abs/1810.03068">https://arxiv.org/abs/1810.03068</a>
+
+- "Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings", Castro et al <br>
+<a href="https://arxiv.org/abs/2006.06885">https://arxiv.org/abs/2006.06885</a>
+
+- "Learning Laplacian matrix in smooth graph signal representations", Dong et al <br>
+<a href="http://web.media.mit.edu/~xdong/pub.html">http://web.media.mit.edu/~xdong/pub.html</a>
 
 - "Unsupervised Deep Haar Scattering on Graphs", Chen et al <br>
 <a href="https://arxiv.org/pdf/1406.2390.pdf">https://arxiv.org/pdf/1406.2390.pdf</a>
 
-## Graph convolution
-- "DiffGCN: Graph Convolutional Networks viaDifferential Operators and Algebraic MultigridPooling", Eliasof et al <br>
+## Graph convolution layers and pooling
+- "DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic MultigridPooling", Eliasof et al <br>
 <a href="https://arxiv.org/pdf/2006.04115.pdf">https://arxiv.org/pdf/2006.04115.pdf</a>
 
-- <a href="https://arxiv.org/abs/1606.09375">Michaël Defferrard, Xavier Bresson, & Pierre Vandergheynst. (2016). Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.</a>
-- <a href="https://arxiv.org/abs/1609.02907">Thomas N. Kipf, & Max Welling. (2016). Semi-Supervised Classification with Graph Convolutional Networks.</a>
-- <a href="https://arxiv.org/abs/1711.07553">Xavier Bresson, & Thomas Laurent. (2017). Residual Gated Graph ConvNets.</a>
-- <a href="https://arxiv.org/abs/1710.10903">Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, & Yoshua Bengio. (2017). Graph Attention Networks.</a>
-- <a href="https://arxiv.org/abs/1907.05008">Nima Dehmamy and Albert-Lászl\'o Barabási and Rose Yu (2019). Understanding the Representation Power of Graph Neural Networks in Learning Graph TopologyCoRR, abs/1907.05008.</a>
+- "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering", Defferrard et al <br>
+- <a href="https://arxiv.org/abs/1606.09375">https://arxiv.org/abs/1606.09375</a>
 
-- <a href="https://arxiv.org/abs/1810.00826">Keyulu Xu, Weihua Hu, Jure Leskovec, & Stefanie Jegelka. (2018). How Powerful are Graph Neural Networks?.</a>
-- <a href="https://arxiv.org/abs/1911.04129">Songtao Liu, Lingwei Chen, Hanze Dong, Zihao Wang, Dinghao Wu, & Zengfeng Huang. (2019). Higher-order Weighted Graph Convolutional Networks.</a>
+- "Semi-supervised classification with graph convolutional networks", Kipf and Welling <br>
+<a href="https://arxiv.org/abs/1609.02907">https://arxiv.org/abs/1609.02907</a>
 
-- <a href="https://arxiv.org/abs/2003.00982">Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, & Xavier Bresson. (2020). Benchmarking Graph Neural Networks.</a>
+- "Residual Gated Graph ConvNets", Bresson et al <br>
+<a href="https://arxiv.org/abs/1711.07553">https://arxiv.org/abs/1711.07553</a>
 
-#### Graph pooling
+- "Graph Attention Networks", Veličković et al <br> 
+<a href="https://arxiv.org/abs/1710.10903">https://arxiv.org/abs/1710.10903</a>
+
+- "Understanding the representation power of graph neural networks in learning graph topology", Dehmamy, Barabási, and Yu <br>
+<a href="https://arxiv.org/abs/1907.05008">https://arxiv.org/abs/1907.05008"</a>
+
+- "How Powerful are Graph Neural Networks?", Xu et al <br>
+<a href="https://arxiv.org/abs/1810.00826">"https://arxiv.org/abs/1810.00826"</a>
+
+- "Benchmarking Graph Neural Networks", Dwivedi et al <br>
+<a href="https://arxiv.org/abs/2003.00982">https://arxiv.org/abs/2003.00982</a>
+
 - <a href="https://arxiv.org/abs/1806.08804">Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, & Jure Leskovec. (2018). Hierarchical Graph Representation Learning with Differentiable Pooling.</a>
 
-- <a href="static/end-to-end-differentiable-graph-classification.pdf">Zhang, M., Cui, Z., Neumann, M., &amp; Chen, Y. (2018). An End-to-End Deep LearningArchitecture for Graph Classification. Proceedings of The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18.</a>
+- "An End-to-End Deep Learning Architecture for Graph Classification", Zhang et al
+<a href="static/end-to-end-differentiable-graph-classification.pdf">static/end-to-end-differentiable-graph-classification.pdf</a>
 
 #### Multiple edge features
-- <a href="https://arxiv.org/abs/1809.02709">Liyu Gong, & Qiang Cheng. (2018). Exploiting Edge Features in Graph Neural Networks.</a>
-- <a href="https://arxiv.org/abs/1906.03412">Xavier Bresson, & Thomas Laurent. (2019). A Two-Step Graph Convolutional Decoder for Molecule Generation.</a>
+- "Exploiting edge featue in graph neural networks", Gong et al <br>
+<a href="https://arxiv.org/abs/1809.02709">https://arxiv.org/abs/1809.02709</a>
+
+- "A Two-Step Graph Convolutional Decoder for Molecule Generation", Bresson et al <br>
+<a href="https://arxiv.org/abs/1906.03412">https://arxiv.org/abs/1906.03412</a>
 
 ## Graph theory
-- <a href="https://www.sciencedirect.com/science/article/pii/0022000082900095?via%3Dihub">Luks, E. M. (1982). Isomorphism of graphs of bounded valence can be tested in polynomial time. Journal of Computer and System Sciences, 25(1), 42-65. doi:10.1016/0022-0000(82)90009-5</a>
-- <a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">Cohen, W. W. (2010), Graph Walks and Graphical Models, CMU</a>
+- "Graph Walks and Graphical Models", Cohen et al <br>
+<a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf</a>
 
 ## Instance discrimination
-- <a href="https://arxiv.org/abs/1805.01978">Wu, Z., Xiong, Y., Yu, S., and Lin, D. (2018) Unsupervised feature learning via non-parametric instance-level discrimination, Arxiv preprint</a>
-- <a href="https://arxiv.org/abs/2005.12320">Van Gansbeke, W., Vandenhende, S., Georgoulis, S., Proesmans, M., and Van Gool, L. (2020) Learning to classify images without labels, Arxiv preprint</a>
-- <a href="https://arxiv.org/abs/2005.14415">Lin, G., Yang, Y., Kang, X., Liao, K., and Zhao, F. (2020). Higher-order structure preserving graph neural network for few-shot learning, Arxiv preprint</a>
+- "Unsupervised feature learning via non-parametric instance-level discrimination", Wu, et al <br>
+<a href="https://arxiv.org/abs/1805.01978">https://arxiv.org/abs/1805.01978</a>
+
+- "Learning to classify images without labels", Van Gansbeke, et al <br>
+<a href="https://arxiv.org/abs/2005.12320">https://arxiv.org/abs/2005.12320</a>
+
+- "Higher-order structure preserving graph neural network for few-shot learning", Lin, et al <br>
+<a href="https://arxiv.org/abs/2005.14415">https://arxiv.org/abs/2005.14415</a>
 
 ## Differentiable programming 
-- <a href="https://arxiv.org/abs/1802.03676">Mensch, A &amp; Blondel, M. (2018) Differentiable dynamic programming for structure prediction and attention, Arxiv preprint</a>
+- "Differentiable dynamic programming for structure prediction and attention", Mensch and Blondel <br>
+<a href="https://arxiv.org/abs/1802.03676">https://arxiv.org/abs/1802.03676</a>
 
 ## Complex Systems \& Network science
-- <a href="https://www.santafe.edu/research/results/working-papers/self-dissimilarity-an-empirical-measure-of-complex">Wolpert, D.H. & Macready, W.G. (2000). "Self-Dissimilarity: An Empirically Observable Measure of Complexity". In Y. Bar-Yam (ed.). Unifying Themes in Complex Systems (PDF). Perseus books.</a>
+- "Self-dissimilarity as a high dimensional complexity measure", Wolpert, et al <br>
+<a href="https://ti.arc.nasa.gov/m/pub-archive/935h/0935%20(Wolpert).pdf">https://ti.arc.nasa.gov/m/pub-archive/935h/0935%20(Wolpert).pdf</a>
 
-- <a href="https://ti.arc.nasa.gov/m/pub-archive/935h/0935%20(Wolpert).pdf">Wolpert, David H.; Macready, William (2004). "Self-dissimilarity as a high dimensional complexity measure". In Y. Bar-Yam (ed.). International Conference on Complex Systems (PDF). Perseus books, in press.</a>
-
-- <a href="https://arxiv.org/abs/1804.03665"> Bagrow, J. P., &amp; Bollt, E. M. (2019). An information-theoretic, all-scales approach to comparing networks. Applied Network Science, 4(1). doi:10.1007/s41109-019-0156-x</a>
+- "An information-theoretic, all-scaled approach to comparing networks", Bagrow et al <br>
+<a href="https://arxiv.org/abs/1804.03665">https://arxiv.org/abs/1804.03665</a>
 
 
 ## Class Discovery in Networks
-- <a href="https://arxiv.org/abs/2007.02914">Lan, Lin, et al. "Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding." arXiv preprint arXiv:2007.02914 (2020).</a>
+- "Node classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding", Lan, Lin et al <br>
+<a href="https://arxiv.org/abs/2007.02914">https://arxiv.org/abs/2007.02914</a>
 
 # Other links
 - <a href="https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765">How to unit test machine learning code</a> 
