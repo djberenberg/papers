@@ -72,7 +72,8 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "Benchmarking Graph Neural Networks", Dwivedi et al <br>
 <a href="https://arxiv.org/abs/2003.00982">https://arxiv.org/abs/2003.00982</a>
 
-- <a href="https://arxiv.org/abs/1806.08804">Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, & Jure Leskovec. (2018). Hierarchical Graph Representation Learning with Differentiable Pooling.</a>
+- "Hierarchical Graph Representation Learning with Differentiable Pooling", Ying et al <br>
+<a href="https://arxiv.org/abs/1806.08804">https://arxiv.org/abs/1806.08804</a>
 
 - "An End-to-End Deep Learning Architecture for Graph Classification", Zhang et al
 <a href="static/end-to-end-differentiable-graph-classification.pdf">static/end-to-end-differentiable-graph-classification.pdf</a>
