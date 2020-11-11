@@ -10,10 +10,10 @@
 <a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
 
 ## Signal processing, wavelets, and scattering
-- "Graph Signal Processing: Overview, Challenges, and Applications"
+- "Graph Signal Processing: Overview, Challenges, and Applications"<br>
 <a href="https://arxiv.org/abs/1712.00468">https://arxiv.org/abs/1712.00468</a>
 
-- "Stationary Graph Processes and Spectral Estimation", Marques et al
+- "Stationary Graph Processes and Spectral Estimation", Marques et al<br>
 <a href="https://cas.tudelft.nl/pubs/leus17tsp3.pdf">https://cas.tudelft.nl/pubs/leus17tsp3.pdf</a>
 
 - "Invariant Scattering Convolution Networks", Bruna et al <br>
