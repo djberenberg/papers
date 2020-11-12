@@ -10,6 +10,9 @@
 <a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
 
 ## Signal processing, wavelets, and scattering
+- "Representation Learning on Graphs: Methods and Applications", Hamilton et al <br>
+<a href="https://arxiv.org/abs/1709.05584">https://arxiv.org/abs/1709.05584</a>
+
 - "Graph Signal Processing: Overview, Challenges, and Applications"<br>
 <a href="https://arxiv.org/abs/1712.00468">https://arxiv.org/abs/1712.00468</a>
 
