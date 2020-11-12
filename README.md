@@ -1,6 +1,34 @@
 # Papers
 
-# Scattering nets
+## Graph theory
+- "Graph Walks and Graphical Models", Cohen et al <br>
+<a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf</a>
+
+# Graph signal processing
+- "Graph Signal Processing: Overview, Challenges, and Applications"<br>
+<a href="https://arxiv.org/abs/1712.00468">https://arxiv.org/abs/1712.00468</a>
+
+- "Stationary Graph Processes and Spectral Estimation", Marques et al<br>
+<a href="https://cas.tudelft.nl/pubs/leus17tsp3.pdf">https://cas.tudelft.nl/pubs/leus17tsp3.pdf</a>
+
+- "Local Smoothness of Graph Signals", Daković et al <br>
+<a href="https://www.hindawi.com/journals/mpe/2019/3208569/">https://www.hindawi.com/journals/mpe/2019/3208569/</a>
+
+- "Geometric Deep Learning: Going Beyond Euclidean Data", Bronstein et al <br>
+<a href="https://arxiv.org/abs/1611.08097">https://arxiv.org/abs/1611.08097</a>
+
+# Wavelets
+- "Wavelets on Graphs via Spectral Graph Theory", Hammond et al <br>
+<a href="https://arxiv.org/abs/0912.3848">"https://arxiv.org/abs/0912.3848"</a>
+
+# Graph representation learning
+- "Representation Learning on Graphs: Methods and Applications", Hamilton et al <br>
+<a href="https://arxiv.org/abs/1709.05584">https://arxiv.org/abs/1709.05584</a>
+
+- "Learning Laplacian matrix in smooth graph signal representations", Dong et al <br>
+<a href="http://web.media.mit.edu/~xdong/pub.html">http://web.media.mit.edu/~xdong/pub.html</a>
+
+# Scattering
 - <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">Intro. to scattering networks</a>
 
 - <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
@@ -8,16 +36,6 @@
 
 - "Graph Convolutional Networks via Scattering", Zou et al <br>
 <a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
-
-## Signal processing, wavelets, and scattering
-- "Representation Learning on Graphs: Methods and Applications", Hamilton et al <br>
-<a href="https://arxiv.org/abs/1709.05584">https://arxiv.org/abs/1709.05584</a>
-
-- "Graph Signal Processing: Overview, Challenges, and Applications"<br>
-<a href="https://arxiv.org/abs/1712.00468">https://arxiv.org/abs/1712.00468</a>
-
-- "Stationary Graph Processes and Spectral Estimation", Marques et al<br>
-<a href="https://cas.tudelft.nl/pubs/leus17tsp3.pdf">https://cas.tudelft.nl/pubs/leus17tsp3.pdf</a>
 
 - "Invariant Scattering Convolution Networks", Bruna et al <br>
 <a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
@@ -29,17 +47,9 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
+
 - "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al <br>
 <a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
-
-- "Wavelets on Graphs via Spectral Graph Theory", Hammond et al <br>
-<a href="https://arxiv.org/abs/0912.3848">"https://arxiv.org/abs/0912.3848"</a>
-
-- "Local Smoothness of Graph Signals", Daković et al <br>
-<a href="https://www.hindawi.com/journals/mpe/2019/3208569/">https://www.hindawi.com/journals/mpe/2019/3208569/</a>
-
-- "Geometric Deep Learning: Going Beyond Euclidean Data", Bronstein et al <br>
-<a href="https://arxiv.org/abs/1611.08097">https://arxiv.org/abs/1611.08097</a>
 
 - "Geometric Scattering on Manifolds", Perlmutter et al <br>
 <a href="https://arxiv.org/abs/1812.06968">https://arxiv.org/abs/1812.06968"</a>
@@ -49,9 +59,6 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 
 - "Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings", Castro et al <br>
 <a href="https://arxiv.org/abs/2006.06885">https://arxiv.org/abs/2006.06885</a>
-
-- "Learning Laplacian matrix in smooth graph signal representations", Dong et al <br>
-<a href="http://web.media.mit.edu/~xdong/pub.html">http://web.media.mit.edu/~xdong/pub.html</a>
 
 - "Unsupervised Deep Haar Scattering on Graphs", Chen et al <br>
 <a href="https://arxiv.org/pdf/1406.2390.pdf">https://arxiv.org/pdf/1406.2390.pdf</a>
@@ -94,9 +101,6 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "A Two-Step Graph Convolutional Decoder for Molecule Generation", Bresson et al <br>
 <a href="https://arxiv.org/abs/1906.03412">https://arxiv.org/abs/1906.03412</a>
 
-## Graph theory
-- "Graph Walks and Graphical Models", Cohen et al <br>
-<a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf</a>
 
 ## Instance discrimination
 - "Unsupervised feature learning via non-parametric instance-level discrimination", Wu, et al <br>
@@ -130,7 +134,6 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - <a href="https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59">Do We Need Deep Graph Neural Networks?</a>
 - <a href="https://towardsdatascience.com/benchmarking-graph-neural-networks-d644e0bf54d5">Benchmarking GCN</a>
 - <a href="https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0">Introduction to persistent homology in topological data analysis</a>
-
 
 # Miscellaneous links
 - <a href="https://bibtex.online/">Bibtex to html</a>
