@@ -17,6 +17,10 @@
 - "Geometric Deep Learning: Going Beyond Euclidean Data", Bronstein et al <br>
 <a href="https://arxiv.org/abs/1611.08097">https://arxiv.org/abs/1611.08097</a>
 
+- "Stationary signal processing on graphs", Perraudin and Vandergheynst <br>
+<a href="https://arxiv.org/pdf/1601.02522">https://arxiv.org/pdf/1601.02522</a>
+
+
 # Wavelets
 - "Wavelets on Graphs via Spectral Graph Theory", Hammond et al <br>
 <a href="https://arxiv.org/abs/0912.3848">"https://arxiv.org/abs/0912.3848"</a>
@@ -41,9 +45,7 @@
 <a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
 
 - "Group Invariant Scattering", Stephane Mallat <br>
-<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">
-https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
-</a>
+<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413</a>
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
@@ -76,7 +78,7 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "Residual Gated Graph ConvNets", Bresson et al <br>
 <a href="https://arxiv.org/abs/1711.07553">https://arxiv.org/abs/1711.07553</a>
 
-- "Graph Attention Networks", Veličković et al <br> 
+- "Graph Attention Networks", Veličković et al <br>
 <a href="https://arxiv.org/abs/1710.10903">https://arxiv.org/abs/1710.10903</a>
 
 - "Understanding the representation power of graph neural networks in learning graph topology", Dehmamy, Barabási, and Yu <br>
@@ -93,6 +95,10 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 
 - "An End-to-End Deep Learning Architecture for Graph Classification", Zhang et al
 <a href="static/end-to-end-differentiable-graph-classification.pdf">static/end-to-end-differentiable-graph-classification.pdf</a>
+
+- "Learning Graph-Level Representations with Recurrent Neural Networks", Yu Jin and Joseph F. JaJa <br>
+<a href="https://arxiv.org/pdf/1805.07683">https://arxiv.org/pdf/1805.07683</a>
+
 
 #### Multiple edge features
 - "Exploiting edge featue in graph neural networks", Gong et al <br>
@@ -112,7 +118,7 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 - "Higher-order structure preserving graph neural network for few-shot learning", Lin, et al <br>
 <a href="https://arxiv.org/abs/2005.14415">https://arxiv.org/abs/2005.14415</a>
 
-## Differentiable programming 
+## Differentiable programming
 - "Differentiable dynamic programming for structure prediction and attention", Mensch and Blondel <br>
 <a href="https://arxiv.org/abs/1802.03676">https://arxiv.org/abs/1802.03676</a>
 
@@ -129,7 +135,7 @@ https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413
 <a href="https://arxiv.org/abs/2007.02914">https://arxiv.org/abs/2007.02914</a>
 
 # Other links
-- <a href="https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765">How to unit test machine learning code</a> 
+- <a href="https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765">How to unit test machine learning code</a>
 - <a href="https://medium.com/@marksaroufim/automatic-differentiation-step-by-step-24240f97a6e6">AutoDiff step by step</a>
 - <a href="https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59">Do We Need Deep Graph Neural Networks?</a>
 - <a href="https://towardsdatascience.com/benchmarking-graph-neural-networks-d644e0bf54d5">Benchmarking GCN</a>
