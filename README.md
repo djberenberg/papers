@@ -8,6 +8,7 @@
   - [Multiple edge features](#multiple-edge-features)
 - [Scattering](#scattering)
   - [Articles and videos](#articles-and-videos)
+  - [Geometric scattering](#geometric-scattering)
 - [Contrastive learning](#contrastive-learning)
 - [Instance discrimination](#instance-discrimination)
 - [Differentiable programming](#differentiable-programming)
@@ -103,18 +104,22 @@
 - <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
 - <a href="https://www.youtube.com/watch?v=Gb8uaQn12Gk">Stephane Mallat: Part 2</a>
 
-- "Graph Convolutional Networks via Scattering", Zou et al <br>
-<a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
-
-- "Invariant Scattering Convolution Networks", Bruna et al <br>
-<a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
-
 - "Group Invariant Scattering", Stephane Mallat <br>
-<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413</a>
+<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">
+https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413</a>
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
 
+## Scattering networks
+- "Invariant Scattering Convolution Networks", Bruna et al <br>
+<a href="https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf">https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf</a>
+
+- "Graph Convolutional Networks via Scattering", Zou et al <br>
+<a href="https://arxiv.org/pdf/1804.00099.pdf">https://arxiv.org/pdf/1804.00099.pdf</a>
+
+
+## Geometric scattering
 - "Geometric Scattering on Manifolds", Perlmutter et al <br>
 <a href="https://arxiv.org/abs/1812.06968">https://arxiv.org/abs/1812.06968"</a>
 
@@ -123,9 +128,6 @@
 
 - "Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings", Castro et al <br>
 <a href="https://arxiv.org/abs/2006.06885">https://arxiv.org/abs/2006.06885</a>
-
-- "Unsupervised Deep Haar Scattering on Graphs", Chen et al <br>
-<a href="https://arxiv.org/pdf/1406.2390.pdf">https://arxiv.org/pdf/1406.2390.pdf</a>
 
 # Contrastive Learning
 - "Learning deep representations by mutual information estimation and maximization", Hjelm et al<br>
