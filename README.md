@@ -3,7 +3,7 @@
   - [Graph theory](#graph-theory)
   - [Graph signal processing](#graph-signal-processing)
   - [Wavelets](#wavelets)
-  - [Graph representation learning](#graph-representation learning)
+  - [Graph representation learning](#graph-representation-learning)
   - [Graph convolution layers, pooling](#graph-convolution-layers-and-pooling)
   - [Multiple edge features](#multiple-edge-features)
 - [Scattering](#scattering)
