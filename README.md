@@ -23,8 +23,6 @@
 ## Graph theory
 - "Graph Walks and Graphical Models", Cohen et al <br>
 <a href="http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf">http://reports-archive.adm.cs.cmu.edu/anon/ml2010/CMU-ML-10-102.pdf</a>
-- "Isomorphism of graphs with bounded eigenvalue multiplicity", Babai, Grigoyev, and Mount <br>
-<a href="babai1982.pdf">pdf</a>
 
 ## Graph signal processing
 - "Graph Signal Processing: Overview, Challenges, and Applications"<br>
