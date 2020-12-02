@@ -105,8 +105,7 @@
 - <a href="https://www.youtube.com/watch?v=Gb8uaQn12Gk">Stephane Mallat: Part 2</a>
 
 - "Group Invariant Scattering", Stephane Mallat <br>
-<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">
-https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413</a>
+<a href="https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413">https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21413</a>
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
