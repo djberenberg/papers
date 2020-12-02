@@ -130,11 +130,14 @@
 - "Learning deep representations by mutual information estimation and maximization", Hjelm et al<br>
 <a href="https://arxiv.org/abs/1808.06670">https://arxiv.org/abs/1808.06670</a>
 
-- "InfoMax-GAN: Improved Adversarial Image Generation via Information Maximization and Contrastive Learning", Sin Lee et al<br> 
+- "InfoMax-GAN: Improved Adversarial Image Generation via Information Maximization and Contrastive Learning", Sin Lee et al<br>
 <a href="https://arxiv.org/abs/2007.04589">https://arxiv.org/abs/2007.04589</a>
 
 - "ContraGAN: Contrastive Learning for Conditional Image Generation", Kang and Park<br>
 <a href="https://papers.nips.cc/paper/2020/file/f490c742cd8318b8ee6dca10af2a163f-Paper.pdf">nips link</a>
+
+- "Graph Contrastive Learning with Augmentations", You et al <br>
+<a href="https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf">NeurIPS2020</a>
 
 
 # Instance discrimination
