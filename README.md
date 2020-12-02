@@ -7,13 +7,14 @@
   - [Graph convolution layers, pooling](#graph-convolution-layers-and-pooling)
   - [Multiple edge features](#multiple-edge-features)
 - [Scattering](#scattering)
+  - [Articles and videos](#articles-and-videos)
 - [Contrastive learning](#contrastive-learning)
 - [Instance discrimination](#instance-discrimination)
 - [Differentiable programming](#differentiable-programming)
 - [Complex systems, network science](#complex-systems-and-network-science)
 - [Class discovery](#class-discovery-in-networks)
 - [Other links](#other-links)
- - [Miscellaeous links](#miscellaneous-links)
+  - [Miscellaeous links](#miscellaneous-links)
 
 
 # Graphs
@@ -95,6 +96,8 @@
 <a href="https://arxiv.org/abs/1906.03412">https://arxiv.org/abs/1906.03412</a>
 
 # Scattering
+
+## Articles and videos
 - <a href="https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385">Intro. to scattering networks</a>
 
 - <a href="https://www.youtube.com/watch?v=4eyUReyIPXg&feature=youtu.be&t=3060">Stephane Mallat: Part 1</a>
@@ -111,9 +114,6 @@
 
 - "Joint Time-Frequency Scattering", Anden et al <br>
  <a href="https://arxiv.org/abs/1807.08869">https://arxiv.org/abs/1807.08869</a>
-
-- "Efficient and Stable Graph Scattering Transforms via Pruning", Ioannidis et al <br>
-<a href="https://arxiv.org/abs/2001.09882">https://arxiv.org/abs/2001.09882</a>
 
 - "Geometric Scattering on Manifolds", Perlmutter et al <br>
 <a href="https://arxiv.org/abs/1812.06968">https://arxiv.org/abs/1812.06968"</a>
