@@ -1,11 +1,12 @@
 # Papers
 - [Graphs](#graphs)
-  - [Graph theory](#graph-theory)
-  - [Graph signal processing](#graph-signal-processing)
-  - [Wavelets](#wavelets)
-  - [Graph representation learning](#graph-representation-learning)
-  - [Graph convolution layers, pooling](#graph-convolution-layers-and-pooling)
-  - [Multiple edge features](#multiple-edge-features)
+  - [graph theory](#graph-theory)
+  - [graph signal processing](#graph-signal-processing)
+  - [wavelets](#wavelets)
+  - [representation learning](#graph-representation-learning)
+  - [generation](#graph-generation)
+  - [convolution layers, pooling](#graph-convolution-layers-and-pooling)
+  - [multiple edge features](#multiple-edge-features)
 - [Scattering](#scattering)
   - [Articles and videos](#articles-and-videos)
   - [Geometric scattering](#geometric-scattering)
@@ -51,6 +52,10 @@
 
 - "Learning Laplacian matrix in smooth graph signal representations", Dong et al <br>
 <a href="http://web.media.mit.edu/~xdong/pub.html">http://web.media.mit.edu/~xdong/pub.html</a>
+
+## Graph representation learning
+- "Efficient Graph Generation withGraph Recurrent Attention Networks", Liao et al <br>
+<a href="https://papers.nips.cc/paper/2019/file/d0921d442ee91b896ad95059d13df618-Paper.pdf">nips 2019</a>
 
 ## Graph convolution layers and pooling
 - "DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic MultigridPooling", Eliasof et al <br>
