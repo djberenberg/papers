@@ -7,6 +7,7 @@
   - [Generation](#graph-generation)
   - [Convolution layers, pooling](#graph-convolution-layers-and-pooling)
   - [Multiple edge features](#multiple-edge-features)
+- [Equivariant networks](#equivariant-networks)
 - [Scattering](#scattering)
   - [Articles and videos](#articles-and-videos)
   - [Geometric scattering](#geometric-scattering)
@@ -144,6 +145,10 @@
 - "Graph Contrastive Learning with Augmentations", You et al <br>
 <a href="https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf">NeurIPS2020</a>
 
+# Equivariant networks
+- <a href="https://search.zeta-alpha.com/?doc_ids=6fa346884475396a20d4cc7aacf12286e0d8523d,5d58422e01b94b517856f5e180407bed45adabbe,b0cc321d39ab7234cbd4dc36dbe500bc12a86528,5d21c3195ef8e0d5e982e2206ea859b24538f56e,3f064fbf69446db1c3b98c80c00b3e7553ac485e,3d10e635da3e7e6be17dc7fcd8a057030c8e7a8f,b8660cd964dd76cc6dfc657220212d1383bfa60b,455928101dcc7961aad342d7c25402ee5f07a25c">NeurIPS 2020 list</a>
+- The general theory of permutation equivariant neural networks and higher order graph variational encoders, Thiede et al <br>
+<a href="https://arxiv.org/pdf/2004.03990.pdf">https://arxiv.org/pdf/2004.03990.pdf</a>
 
 # Instance discrimination
 - "Unsupervised feature learning via non-parametric instance-level discrimination", Wu, et al <br>
